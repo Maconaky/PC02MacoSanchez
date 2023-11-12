@@ -1,0 +1,32 @@
+<!-- item_equipo.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/escudoImageView"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/escudo_alianza"
+
+    <TextView
+        android:id="@+id/nombreEquipoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="Alianza Lima el único Grande"/>
+
+    <TextView
+        android:id="@+id/numeroTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="25""/>
+
+
+
+
+</LinearLayout>

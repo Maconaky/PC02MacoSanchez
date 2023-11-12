@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251983516864",
+    "project_id": "pc02maco",
+    "storage_bucket": "pc02maco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251983516864:android:17c6352bf68206a7668925",
+        "android_client_info": {
+          "package_name": "com.example.PC02Maco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqIibrnNMgU2EteHIwAnXfjpW_KqaU3Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

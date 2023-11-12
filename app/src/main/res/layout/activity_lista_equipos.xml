@@ -1,0 +1,16 @@
+<!-- activity_lista_equipos.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Aquí puedes agregar un RecyclerView para mostrar la lista de equipos -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="16dp" />
+
+    <!-- Otros elementos de interfaz de usuario si es necesario -->
+</LinearLayout>
